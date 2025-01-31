@@ -75,7 +75,7 @@ int data,data1;
           temp=temp.next;
         }
         temp.next=newNode;
-        System.out.println("ELEMENT INSERTING");
+        System.out.println("ELEMENT INSERTED");
         }
     }    
 public void displayList() {
